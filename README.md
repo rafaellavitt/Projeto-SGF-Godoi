@@ -1,6 +1,6 @@
-Projeto de Sistema Financeiro Mobile para Laticínio
+Projeto de Sistema Financeiro Mobile para Laticínio <br>
 
-Ultilizando:
-Springboot
-Mysql
-....
+Ultilizando:<br>
+Springboot<br>
+Mysql<br>
+....<br>
